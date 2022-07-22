@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\source"
   ],
-  "SelectedNode": "\\Project.xml",
+  "SelectedNode": "\\source\\StoryMenuState.hx",
   "PreviewInSolutionExplorer": false
 }
